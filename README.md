@@ -7,6 +7,6 @@ The full dataset consists is Amazon employees' reviews from 2013 to 2018. This d
 
 ## Task:
 
-1. Classifying positive and negative sentiment of employee reviews,
+1. Classifying positive and negative sentiment of employee reviews, find the top comments of summary, pros and cons,
 2. Predicting sentiment of employee reviews,
 3. Building the topic modeling to see what the topics indicated on,
